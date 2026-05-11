@@ -28,3 +28,7 @@ The player fights through multiple enemies, including a goblin, an orc, and a dr
 ## Project Goal
 
 The goal of this project was to create a simple but playable Arduino game that combines basic electronics, input handling, LCD output, timing logic, and game-state management.
+
+## Video showing basic functions
+
+https://www.youtube.com/watch?v=lF7mBVfODpE
