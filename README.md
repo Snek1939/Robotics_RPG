@@ -29,6 +29,8 @@ The player fights through multiple enemies, including a goblin, an orc, and a dr
 
 The goal of this project was to create a simple but playable Arduino game that combines basic electronics, input handling, LCD output, timing logic, and game-state management.
 
-## Video showing basic functions
+## Video+TinkerCard demonstration
 
 https://www.youtube.com/watch?v=lF7mBVfODpE
+
+https://www.tinkercad.com/things/jQwqRPvUwN8/editel?returnTo=%2Fcircuits&sharecode=xt6fViuhmeHqwah5L_19H3ASbI7cLGTmz9EKWFkS12E
